@@ -11,12 +11,16 @@ specialising in UI design and crafting delightful experiences
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 
+## 🎓 Education
+- Currently pursuing a postgraduate degree in Frontend Engineering
+
 ## Focus Areas
 - Frontend Development
-- UI/UX Design
-- User Experience Enhancement
-- Responsive Web Design
-- Modern Web Technologies
-
+- Experienced in Frontend Development with a focus on JavaScript, TypeScript, and CSS
+- Proficient in frameworks and libraries like Next.js, React.js and Vue.js
+- Knowledgeable in unit testing with React Testing Library, Jest, and Vitest
+- Expertise in using Tailwind CSS, MUI, CSS-in-JS and other modern styling solutions
+- Strong background in UI/UX design principles and best practices
+- Design systems and component libraries
 ---
 *I'm always interested in collaborating on exciting projects! Feel free to reach out.*
