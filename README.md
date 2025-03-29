@@ -22,5 +22,11 @@ specialising in UI design and crafting delightful experiences
 - Expertise in using Tailwind CSS, MUI, CSS-in-JS and other modern styling solutions
 - Strong background in UI/UX design principles and best practices
 - Design systems and component libraries
+
+## 🔭 What I'm currently working on
+- Building scalable and responsive web applications
+- Enhancing user experiences through thoughtful UI/UX design
+- Contributing to open-source projects
+- Learning about the latest trends in frontend development and web technologies
 ---
 *I'm always interested in collaborating on exciting projects! Feel free to reach out.*
