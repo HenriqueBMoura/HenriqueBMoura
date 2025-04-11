@@ -12,7 +12,7 @@ specialising in UI design and crafting delightful experiences
 ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 
 ## Education
-- Currently pursuing a Postgraduate Degree in Front-end Engineering at [FIAP](https://postech.fiap.com.br/curso/front-end-engineering)
+- Currently pursuing a Postgraduate Degree in Front-end Engineering at <a href="https://postech.fiap.com.br/curso/front-end-engineering" target="_blank">FIAP</a>
 
 ## Focus Areas
 - Frontend Development
