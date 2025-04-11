@@ -11,8 +11,8 @@ specialising in UI design and crafting delightful experiences
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 
-## 🎓 Education
-- Currently pursuing a postgraduate degree in Frontend Engineering
+## Education
+- Currently pursuing a Postgraduate Degree in Front-end Engineering at [FIAP](https://postech.fiap.com.br/curso/front-end-engineering)
 
 ## Focus Areas
 - Frontend Development
@@ -23,7 +23,7 @@ specialising in UI design and crafting delightful experiences
 - Strong background in UI/UX design principles and best practices
 - Design systems and component libraries
 
-## 🔭 What I'm currently working on
+## What I'm currently working on
 - Building scalable and responsive web applications
 - Enhancing user experiences through thoughtful UI/UX design
 - Contributing to open-source projects
