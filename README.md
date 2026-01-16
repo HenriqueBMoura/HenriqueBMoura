@@ -19,6 +19,6 @@ See pinned repositories below.
 
 ## Background
 
-- Experience delivering enterprise frontend systems across regulated and high-impact environments  
+- Delivered enterprise frontend systems across regulated and high-impact environments  
 - Strong collaboration with backend, product, and design teams  
 - Postgraduate Degree in Frontend Engineering (FIAP)
