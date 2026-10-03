@@ -1,24 +1,24 @@
 # Henrique Moura
 
-Senior Frontend Engineer · Accessibility (WCAG 2.1 AA) · Frontend Architecture
+Senior Frontend Engineer • Pricing Systems • Data-Driven Products
 
-I build and maintain production-grade frontend systems for enterprise and regulated environments, where frontend decisions directly affect performance, accessibility, and system reliability.
+I build and maintain production-grade frontend systems for enterprise and regulated environments, where interface decisions directly connect to system reliability, data density, and strict compliance boundaries. 
 
-My work usually sits between architecture and execution. I collaborate closely with design and product teams to turn complex requirements into interfaces that are practical, maintainable, and resilient in real-world conditions. I also integrate third-party APIs, including AI-powered services, with attention to UX, latency, and failure scenarios.
+My work sits between application architecture and core business logic. I collaborate closely with data engineers, product teams, and stakeholders to translate complex pricing algorithms, predictive analytics, and workflow requirements into high-performance user decisions.
 
 ## Areas of focus
 
-- Frontend architecture with React, Next.js, and TypeScript  
-- Accessibility-first systems (WCAG 2.1 AA)  
-- Design systems, design tokens, and scalable UI foundations  
-- Rendering strategies, performance optimization, and SEO for large applications  
+- Frontend architecture with React, Next.js, TypeScript, and MVVM principles
+- Data-driven application sync with Databricks, Django backends, and containerized Docker environments
+- Technical governance for AI-assisted programming (Claude) across the development lifecycle
+- Accessibility-first development complying with strict WCAG guidelines
 
 ## Selected work
 
-See pinned repositories below.
+See pinned repositories below for architectural patterns, technical foundations, and implementation examples.
 
 ## Background
 
-- Delivered enterprise frontend systems across regulated and high-impact environments  
-- Strong collaboration with backend, product, and design teams  
+- Enterprise frontend systems across specialized consultancy, logistics, and federal monitoring environments
+- Deep alignment with backend, product, and data engineering teams to map commercial logic before execution
 - Postgraduate Degree in Frontend Engineering (FIAP)
