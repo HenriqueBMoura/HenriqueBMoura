@@ -1,6 +1,6 @@
 # Henrique Moura
 
-Senior Frontend Engineer • Pricing Systems • Data-Driven Products
+Senior Product Engineer (Frontend) • Pricing Systems • Data-Driven Products
 
 I build and maintain production-grade frontend systems for enterprise and regulated environments, where interface decisions directly connect to system reliability, data density, and strict compliance boundaries. 
 
